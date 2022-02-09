@@ -3,9 +3,11 @@ body {
   /*text-align: center;*/
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Spectral:wght@300&display=swap');
+
 h1 { /* Newsletter Title*/
   font-size: 20px;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Spectral";
   text-align: left;
   color: 0;
 }
